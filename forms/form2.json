@@ -1,0 +1,31 @@
+{
+  "question1": {
+    "difficulty": "easy",
+    "desc": "what is the capital of Portugal",
+    "answerA": "Porto",
+    "answerB": "Lisbon",
+    "answerC": "Aveiro",
+    "answerD": "Faro",
+    "rightAnswer": "B"
+  },
+
+  "question2": {
+    "difficulty": "medium",
+    "desc": "Which country was colonized by Portugal in Africa?",
+    "answerA": "Mozambique",
+    "answerB": "South Africa",
+    "answerC": "Namibie",
+    "answerD": "Eritrea",
+    "rightAnswer": "A"
+  },
+
+  "question3": {
+    "difficulty": "hard",
+    "desc": "which district has The Portugal ?",
+    "answerA": 18,
+    "answerB": 10,
+    "answerC": 15,
+    "answerD": 20,
+    "rightAnswer": "A"
+  }
+}

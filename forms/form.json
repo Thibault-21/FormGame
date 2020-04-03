@@ -1,0 +1,31 @@
+{
+  "question1": {
+    "difficulty": "easy",
+    "desc": "what is the capital of Italy",
+    "answerA": "Milan",
+    "answerB": "Turin",
+    "answerC": "Rome",
+    "answerD": "Naples",
+    "rightAnswer": "A"
+  },
+
+  "question2": {
+    "difficulty": "medium",
+    "desc": "Which country was colonized by italian in Africa?",
+    "answerA": "Zimbabwe",
+    "answerB": "South Africa",
+    "answerC": "Namibie",
+    "answerD": "Eritrea",
+    "rightAnswer": "D"
+  },
+
+  "question3": {
+    "difficulty": "hard",
+    "desc": "which district has Italy ?",
+    "answerA": 10,
+    "answerB": 20,
+    "answerC": 30,
+    "answerD": 15,
+    "rightAnswer": "B"
+  }
+}
